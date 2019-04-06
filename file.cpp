@@ -8,16 +8,16 @@ class stud // class declaration
     int rol,age;  // int
 
     void enter() 
-    { 
-        cout<<"Enter Student Name: "; cin>>name;    
-        cout<<"Enter Student Age: "; cin>>age;        
+    {
+        cout<<"Enter Student Name: "; cin>>name; // student name       
+        cout<<"Enter Student Age: "; cin>>age;     // studnet age
         cout<<"Enter Student Roll number: "; cin>>rol;        
         cout<<"Enter Student Class: "; cin>>clas;
     }
     
     void display() 
     {
-        cout<<"\n Age\tName\tR.No.\tClass";
+        cout<<"\n Age\tName\tR.No.\tClass";   // cout name
         cout<<"\n"<<age<<"\t"<<name<<"\t"<<rol<<"\t"<<clas; 
     }
 };
