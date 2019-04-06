@@ -4,8 +4,8 @@ using namespace std;
 class stud 
 {
     public:
-    char name[30],clas[10];
-    int rol,age;
+    char name[30],clas[10];  // char
+    int rol,age;  // int
 
     void enter() 
     { 
