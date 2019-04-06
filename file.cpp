@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-class stud 
+class stud // class declaration
 {
-    public:
+    public: // class 
     char name[30],clas[10];  // char
     int rol,age;  // int
 
