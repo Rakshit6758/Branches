@@ -9,7 +9,7 @@ class stud
 
     void enter() 
     { 
-        cout<<"Enter Student Name: "; cin>>name;    
+        cout<<"Enter Student Name: "; cin>>name; // student name   
         cout<<"Enter Student Age: "; cin>>age;        
         cout<<"Enter Student Roll number: "; cin>>rol;        
         cout<<"Enter Student Class: "; cin>>clas;
