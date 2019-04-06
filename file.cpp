@@ -17,7 +17,7 @@ class stud
     
     void display() 
     {
-        cout<<"\n Age\tName\tR.No.\tClass";
+        cout<<"\n Age\tName\tR.No.\tClass";   // cout name
         cout<<"\n"<<age<<"\t"<<name<<"\t"<<rol<<"\t"<<clas; 
     }
 };
