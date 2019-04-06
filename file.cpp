@@ -22,7 +22,7 @@ class stud // class declaration
     }
 };
 
-int main()
+int main()   // main
 {
     class stud s;
     s.enter();
